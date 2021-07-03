@@ -1,6 +1,3 @@
-
-![](https://komarev.com/ghpvc/?username=Shironep&color=FFC0CB)
-
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - :heart: &nbsp; Eu amo o @Yuujet.
