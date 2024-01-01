@@ -13,5 +13,5 @@
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Shironep">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=shironep&show_icons=true&theme=dracula&line_height=27" alt="**Shironep** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=xirpy&show_icons=true&theme=dracula&line_height=27" alt="**Shironep** github stats"/>
 </a>
