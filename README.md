@@ -1,4 +1,4 @@
-## <h3> :woman: &nbsp;Sobre mim </h3>
+## :woman: &nbsp;Sobre mim
 
 - :heart: &nbsp; Eu amo o <a href="https://github.com/Yuujet">@Yuujet</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **JavaScript**.
