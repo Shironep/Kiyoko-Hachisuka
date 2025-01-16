@@ -1,6 +1,5 @@
 ## :woman: &nbsp;Sobre mim
 
-- :heart: &nbsp; Eu amo o <a href="https://github.com/Yuujet">@Yuujet</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **JavaScript**.
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=256422547556401152)
