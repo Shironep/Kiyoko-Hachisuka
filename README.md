@@ -1,18 +1,28 @@
-## :woman: &nbsp;Sobre mim
+## 👩‍💻 Sobre Mim
 
-- 🌱 &nbsp; Aprendendo mais sobre **JavaScript**.
+<div align="center">
+    <ul style="list-style-type: none;">
+        <li>🚀 Apaixonada por desenvolvimento web</li>
+        <li>🌱 Atualmente me aprofundando em <strong>JavaScript</strong></li>
+        <li>💡 Sempre ansiosa para aprender novas tecnologias</li>
+    </ul>
+</div>
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=256422547556401152)
+## 🛠️ Linguagens e Ferramentas
 
-## **Linguagens e Ferramentas:**  
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=js,git,vscode,bash" />
+</div>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+## 📊 Análises do GitHub
 
-## **GitHub Estatísticas**
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xirpy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xirpy&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
-<a href="https://github.com/Shironep">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=xirpy&show_icons=true&theme=dracula&line_height=27" alt="**Shironep** github stats"/>
-</a>
+---
+
+<p align="center">
+    <i style="font-style: italic; color: #9b59b6;">⚡ Curiosidade: Programadores são como detetives, sempre buscando resolver mistérios no código!</i>
+</p>
